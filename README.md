@@ -6,10 +6,7 @@
 
 <h3>Hey there!!...🙋‍♂</h3>
 
-I am a dedicated Engineering student passionate about machine learning, data analysis, and AI. My coursework has provided a solid foundation in both theoretical and practical engineering aspects.
-
-</div>
-
+I am a dedicated engineer passionate about building software solutions with AI and cloud, grounded in strong theoretical and practical engineering knowledge.
 
 
 
@@ -39,10 +36,13 @@ I am a dedicated Engineering student passionate about machine learning, data ana
 </div>
 
 ---
-
-## 🛠 Tools I Use  
+<div align="center">
+  
+### 🛠 Tools I Use  
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,angular,next,express,spring,fastapi,pytorch,tensorflow,aws,azure,gcp,docker,kubernetes,terraform,mysql,postgres,mongodb,vscode,idea,github&perline=13&theme=light)](https://skillicons.dev)  
+
+</div>
 
 <!-- ### 🛠 Languages and Tools :
 <div> -->
