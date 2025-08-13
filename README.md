@@ -40,6 +40,10 @@ I am a dedicated Engineering student passionate about machine learning, data ana
 
 ---
 
+## 🛠 Tools I Use  
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,angular,next,express,spring,fastapi,pytorch,tensorflow,aws,azure,gcp,docker,kubernetes,terraform,mysql,postgres,mongodb,vscode,idea,github&perline=13&theme=light)](https://skillicons.dev)  
+
 <!-- ### 🛠 Languages and Tools :
 <div> -->
   <!--img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
