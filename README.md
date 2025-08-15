@@ -40,7 +40,7 @@ I am a dedicated engineer passionate about building software solutions with AI a
   
 ### 🛠 Tools I Use  
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,angular,next,express,spring,fastapi,pytorch,tensorflow,aws,azure,gcp,docker,kubernetes,terraform,mysql,postgres,mongodb,vscode,idea,github&perline=13&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,html,css,react,angular,next,express,spring,fastapi,pytorch,tensorflow,aws,azure,docker,kubernetes,mysql,postgres,mongodb,vscode,idea,github&perline=13&theme=light)](https://skillicons.dev)  
 
 </div>
 
