@@ -25,9 +25,9 @@ I am a dedicated engineer passionate about building software solutions with AI a
   <a href="https://wa.me/94779990952">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="https://medium.com/@krishnakumarlainitha68">
+<!--   <a href="https://medium.com/@krishnakumarlainitha68">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
+  </a> -->
   <a href="https://www.kaggle.com/lainithak">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
